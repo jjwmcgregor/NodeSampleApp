@@ -9,4 +9,4 @@ npm run test-unit
 npm run test-integration
 ```
 
-## Adding a sixth comment to the app
+## Adding a seventh comment to the app
